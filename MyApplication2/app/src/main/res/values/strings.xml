@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="credit">CREDIT</string>
+    <string name="rbpayment">PAYMENT</string>
+    <string name="FirstName">Enter your name</string>
+    <string name="AmountEdittext">Enter Amount</string>
+
+</resources>

@@ -1,0 +1,16 @@
+<application>
+    <component name="ActionsCollector">
+        <counts>
+            <entry
+                action="$Delete"
+                count="4" />
+            <entry
+                action="$SelectAll"
+                count="2" />
+            <entry
+                action="$Undo"
+                count="17" />
+            <entry
+                action="Android.RunAndroidSdkManager"
+                count="5" />
+            <ent
